@@ -1,4 +1,4 @@
-# docker-hadoop-spark
+# Distributed Spark Application on Hadoop based on Docker
 
 **General Architecture**
 
